@@ -44,6 +44,14 @@ procedure mover;
 var
   i,j:byte;
   begin
+    for i:=1 to 8 do
+    begin
+        for j:=1 to 8 do
+            write(mat1[i,j].tfich,mat1[i,j].color,' ');
+        writeln();
+    end;
+    writeln();
+
     writeln('haga el movimiento');
     readln(n1,n2);
     writeln('a donde?');
@@ -53,18 +61,9 @@ var
 
     mat1[n1,n2].color:='B';
     mat1[n1,n2].tfich:=0;
-
-    for i:=1 to 8 do
-    begin
-        for j:=1 to 8 do
-            write(mat1[i,j].tfich,mat1[i,j].color,' ');
-        writeln();
-    end;
-    writeln();
   end;
 
 begin
-  write('░');
   Iniciar(mat1);
   while true do
         mover();
