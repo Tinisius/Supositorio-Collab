@@ -9,17 +9,17 @@
         <Filename Value="PARCIAL2.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="35"/>
-        <CursorPos X="28" Y="46"/>
-        <UsageCount Value="20"/>
+        <TopLine Value="25"/>
+        <CursorPos X="64" Y="32"/>
+        <UsageCount Value="35"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="Ventas.txt"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="1"/>
-        <CursorPos X="3" Y="6"/>
-        <UsageCount Value="20"/>
+        <CursorPos X="4" Y="5"/>
+        <UsageCount Value="35"/>
         <Loaded Value="True"/>
         <DefaultSyntaxHighlighter Value="Text"/>
       </Unit>
@@ -28,23 +28,84 @@
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="2"/>
         <CursorPos X="9" Y="2"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="35"/>
         <Loaded Value="True"/>
         <DefaultSyntaxHighlighter Value="Text"/>
       </Unit>
+      <Unit>
+        <Filename Value="C:\Users\Pablo\Downloads\ejjj11.lpr"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\Pablo\Downloads\granoscereal.lpr"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\Pablo\Downloads\elhijodeputaquevendeautos.lpr"/>
+        <UnitName Value="prestamistadeautoshacidopormi"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="29"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\LAZ PROYECTS NUEVO\repaso parteB\tambos2.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="61"/>
+        <CursorPos X="16" Y="66"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\LAZ PROYECTS NUEVO\repaso parteB\tambosversionpro.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="97"/>
+        <CursorPos X="23" Y="42"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="PARCIAL2.lpi"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="XML"/>
+      </Unit>
     </Units>
-    <JumpHistory HistoryIndex="2">
+    <JumpHistory HistoryIndex="8">
       <Position>
         <Filename Value="PARCIAL2.lpr"/>
         <Caret Line="18" Column="34" TopLine="6"/>
       </Position>
       <Position>
         <Filename Value="PARCIAL2.lpr"/>
-        <Caret Line="11" Column="44" TopLine="12"/>
+        <Caret Line="18" Column="26" TopLine="6"/>
       </Position>
       <Position>
         <Filename Value="PARCIAL2.lpr"/>
-        <Caret Line="18" Column="26" TopLine="6"/>
+        <Caret Line="49" Column="12" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="PARCIAL2.lpr"/>
+        <Caret Line="86" Column="6" TopLine="71"/>
+      </Position>
+      <Position>
+        <Filename Value="PARCIAL2.lpr"/>
+        <Caret Line="27" Column="65" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="PARCIAL2.lpr"/>
+        <Caret Line="6" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="PARCIAL2.lpr"/>
+        <Caret Line="23" Column="29" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="PARCIAL2.lpr"/>
+        <Caret Line="21" Column="20" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="PARCIAL2.lpr"/>
+        <Caret Line="42" Column="80" TopLine="31"/>
       </Position>
     </JumpHistory>
     <RunParams>
